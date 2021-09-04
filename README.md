@@ -6,6 +6,6 @@ What to do differently:
    Being more time and memory efficient:
     -Using a generator function to process rows from the csv files, filter data, and plot them. 
     -Using NumPy arrays to handle large types of data. (Super Fast)
-    -Using Pandas to read CSV file (to manipulate large csv files)
+    <br />-Using Pandas to read CSV file (to manipulate large csv files)
   
 
