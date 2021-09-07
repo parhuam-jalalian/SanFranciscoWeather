@@ -9,6 +9,6 @@ Csv file scrapped from Weather Underground. Csv data is based on San Francisco's
 * Being more time and memory efficient such as:
 * Use a generator function to process rows from the csv file, filter the data, and plot in one go vs storing values in a list then ploting.  
 * Use NumPy arrays to handle large amounts of data for size, functionality, and performance. 
-* Use Pandas to read and to manipulate large csv file
+* Use Pandas to read and to manipulate large csv file.
   
 
